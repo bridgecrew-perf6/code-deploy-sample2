@@ -1,4 +1,4 @@
 #!/bin/bash
-service httpds start
+service httpsd start
 
 
