@@ -1,4 +1,4 @@
 #!/bin/bash
-service httpd4ss start
+service httpdss start
 
 
