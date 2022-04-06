@@ -1,4 +1,4 @@
 #!/bin/bash
-service httpsxzdss start
+service httpss start
 
 
